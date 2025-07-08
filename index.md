@@ -26,7 +26,7 @@ If you've purchased TurboTax from a retail store or online, you'll receive a 16-
 4. **Select the product version**, such as **TurboTax Deluxe 2024**, **Premier 2024**, or **Business 2024**, depending on your purchase.
 5. **Download the installer** to your computer.
 
-This process also applies if you're looking to **download TurboTax with license code 2024** or if you need the **download TurboTax 2024 Canada** version for Canadian filings.
+[This process also applies if you're looking to **download TurboTax with license code 2024** or if you need the **download TurboTax 2024 Canada** version for Canadian filings.](https://forumturbotax.readthedocs.io/)
 
 
 ## Install TurboTax with License Code on Your Desktop
