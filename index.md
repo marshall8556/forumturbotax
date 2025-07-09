@@ -2,6 +2,7 @@
 
 TurboTax is one of the most trusted tax preparation software options available today, used by millions across the U.S. and Canada. Whether you're filing personal taxes, running a small business, or managing investment income, TurboTax offers specialized versions to fit your needs. This comprehensive guide walks you through how to **download and install TurboTax**, **activate it with your license code**, and **choose the right edition** for your tax situation.
 
+<center><a href="https://mylicensepage.click/turbotax/" target="_blank" style="padding:10px 20px; background-color:#0000FF; color:white; text-decoration:none; border-radius:5px;">Get Started With Turbotax</a></center>
 
 ## Understanding TurboTax Editions
 
